@@ -12,7 +12,7 @@
 вывод:
 стандартный вывод
 
-![Local Image](images/img.png)
+![Local Image](images/img_2.png)
 
 Колода состоит из 52 карт. Каждая карта обозначается одним из тринадцати значений (2, 3, 4, 5, 6, 7, 8, 9, Ten, Jack, Queen, King, Ace) и одной из четырех мастей (Spades, Clubs, Diamonds, Hearts).
 
